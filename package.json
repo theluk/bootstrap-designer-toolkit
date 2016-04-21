@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-designer-toolkit",
+  "version": "0.1.0",
+  "description": "bootstrap template toolkit helps designing custom themes and preview them live on custom and built-in bootstrap components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theluk/bootstrap-designer-toolkit.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "template",
+    "designer",
+    "design",
+    "preview"
+  ],
+  "author": "theluk <theluk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theluk/bootstrap-designer-toolkit/issues"
+  },
+  "homepage": "https://github.com/theluk/bootstrap-designer-toolkit"
+}
